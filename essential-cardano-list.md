@@ -13,7 +13,7 @@ Map of the Cardano ecosystem:
 - [Cardano Roadmap](https://roadmap.cardano.org/en/)
 - [IOHK Research Library](https://iohk.io/en/research/library/)
 - [IO GitHub](https://github.com/input-output-hk/)
-- [IO Blog] (https://iohk.io/en/blog/posts/page-1/)
+- [IO Blog](https://iohk.io/en/blog/posts/page-1/)
 - [IOHK You Tube](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w)
 - [IO Twitter](https://twitter.com/InputOutputHK?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [IO Tik Tok](https://www.tiktok.com/@iohkofficial?)
