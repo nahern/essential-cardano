@@ -13,32 +13,33 @@ This is an open source repository so we would love to hear your suggestions and 
 Welcome to the Cardano ecosystem, here is a map to help you find your way around:
 Map of the Cardano ecosystem
 
-IO Global Official Resources
-- [Cardano official website]()
-- [Cardano Docs]()
-- [Cardano Developers]()
-- [Cardano Roadmap]()
-- [IOHK Research Library]()
-- [IO GitHub]()
-IO Blog
-IOHK You Tube
-IO Twitter
-IO Tik Tok
-Mission of Cardano
-Cardano 360 monthly show playlist
-Project Catalyst playlist
-Technical Support
-Cardano Ambassadors
-Cardano tutorials
-Supporting developer resources
-Cardano Official Telegram
-Cardano Announcements Telegram
-Cardano developers Telegram
-Cardano Discord
-Cardano developers Reddit
-Cardano Stack Exchange
-New to Cardano?
-Read the explainers in the `New to Cardano?` section on Cardano Docs
+## IO Global Official Resources ##
+- [Cardano official website](https://cardano.org/)
+- [Cardano Docs](https://docs.cardano.org/en/latest/#)
+- [Cardano Developers](https://developers.cardano.org/)
+- [Cardano Roadmap](https://roadmap.cardano.org/en/)
+- [IOHK Research Library](https://iohk.io/en/research/library/)
+- [IO GitHub](https://github.com/input-output-hk/)
+- IO Blog
+- IOHK You Tube
+- IO Twitter
+- IO Tik Tok
+- Mission of Cardano
+- Cardano 360 monthly show playlist
+- Project Catalyst playlist
+- Technical Support
+- Cardano Ambassadors
+- Cardano tutorials
+- Supporting developer resources
+- Cardano Official Telegram
+- Cardano Announcements Telegram
+- Cardano developers Telegram
+- Cardano Discord
+- Cardano developers Reddit
+- Cardano Stack Exchange
+
+## New to Cardano? ##
+- Read the explainers in the `New to Cardano?` section on Cardano Docs
 New to Cardano guide (community-generated)
 Blockchain glossary (Emurgo)
 Glossaries/general Information
