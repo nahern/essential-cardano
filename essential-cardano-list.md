@@ -1,17 +1,10 @@
-# The Essential Cardano List #
+# The essential Cardano list #
 
-‘One list to rule them all...’
-
-Welcome to the Essential Cardano List, a comprehensive collection of resources to help you learn more about Cardano. Whether you want to understand what Cardano is, learn about our mission and roadmap, or get stuck in and build on Cardano, this is the place to start. 
-
-The Essential Cardano list is designed to be a central library of materials, a one stop shop where you can find various resources for Cardano. This list includes official resources and community-generated materials. It is open source and we hope that you can help us to grow and fine tune this list to make it even better. We encourage you to add to this list by raising a PR in the repo with suggestions and new additions to enhance our list. 
-How to contribute
-
-This is an open source repository so we would love to hear your suggestions and ideas on what else we could include here. Please get in touch with us and raise a PR with new inclusions. This repository is managed by Ben O'Hanlon, Niamh Ahern, and Tim Harrison, all at IO Global. Please do not reproduce this list, but feel free to contribute and help us evolve it. 
+The essential Cardano list is a central library of materials, a one stop shop where you can find various resources for Cardano. This list includes official resources and community-generated materials. It is open source and we hope that you can help us to grow and fine tune this list to make it even better. We encourage you to add to this list by raising a PR in the repo with suggestions and new additions to enhance our list. 
 
 ## Navigate the Cardano ecosystem ##
 Welcome to the Cardano ecosystem, here is a map to help you find your way around:
-Map of the Cardano ecosystem
+Map of the Cardano ecosystem:
 
 ## IO Global Official Resources ##
 - [Cardano official website](https://cardano.org/)
@@ -20,17 +13,18 @@ Map of the Cardano ecosystem
 - [Cardano Roadmap](https://roadmap.cardano.org/en/)
 - [IOHK Research Library](https://iohk.io/en/research/library/)
 - [IO GitHub](https://github.com/input-output-hk/)
-- IO Blog
-- IOHK You Tube
-- IO Twitter
-- IO Tik Tok
-- Mission of Cardano
-- Cardano 360 monthly show playlist
-- Project Catalyst playlist
-- Technical Support
-- Cardano Ambassadors
-- Cardano tutorials
-- Supporting developer resources
+- [IO Blog] (https://iohk.io/en/blog/posts/page-1/)
+- [IOHK You Tube](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w)
+- [IO Twitter](https://twitter.com/InputOutputHK?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+- [IO Tik Tok](https://www.tiktok.com/@iohkofficial?)
+- [Mission of Cardano](https://www.youtube.com/watch?v=l_Nv0-PVrnM)
+- [Cardano 360 monthly show playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOBz8sfQOgpZJwM4dswLm2WKs)
+- [Project Catalyst playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOByRhpTUdALq4J89m_h7QqLk)
+- [Technical Support](https://iohk.zendesk.com/hc/en-us)
+- [Cardano Ambassadors](https://cardano.org/ambassadors/)
+- [Cardano tutorials](https://github.com/input-output-hk/cardano-tutorials)
+
+## Supporting developer resources ##
 - Cardano Official Telegram
 - Cardano Announcements Telegram
 - Cardano developers Telegram
