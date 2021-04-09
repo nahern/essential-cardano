@@ -10,7 +10,7 @@ Map of the Cardano ecosystem:
 
 ## IO Global Official Resources ##
 - [Cardano official website](https://cardano.org/)
-- [Cardano Docs](https://docs.cardano.org/en/latest/#)
+- [Cardano Documentation](https://docs.cardano.org/en/latest/#)
 - [Cardano Developers](https://developers.cardano.org/)
 - [Cardano Roadmap](https://roadmap.cardano.org/en/)
 - [IOHK Research Library](https://iohk.io/en/research/library/)
@@ -60,20 +60,20 @@ Map of the Cardano ecosystem:
 - [Financial transactions on Cardano](https://www.emurgo.io/en/blog/what-traditional-financial-services-can-be-carried-out-using-cardano-blockchain)
 
 ## Partners ##
-SingularityNET
-Obsidian
-Mukn
-Vacuumlabs
-QuiviQ
-Atix
-Konfidio
-Binaries
-Runtime Verification
-PWC
-Celsius Network
+- [SingularityNET](https://singularitynet.io/)
+- [Obsidian]()
+- [Mukn](https://mukn.io/)
+- Vacuumlabs
+- QuiviQ
+- Atix
+- Konfidio
+- Binaries
+- [Runtime Verification](https://runtimeverification.com/)
+- PWC
+- Celsius Network
 
-Exchanges
-Coinbase
+## Exchanges ##
+- [Coinbase](https://www.coinbase.com)
 Binance
 Kraken
 Bittrex
