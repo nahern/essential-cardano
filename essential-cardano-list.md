@@ -38,7 +38,7 @@ Map of the Cardano ecosystem:
 ## New to Cardano? ##
 - Read the explainers in the [New to Cardano?](https://docs.cardano.org/en/latest/index.html#) section of Cardano Docs
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf) (community-generated)
-- [How to start on Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
+- [How to start with Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
 - [Beginner's guide to Cardano](https://www.kraken.com/learn/what-is-cardano-ada) (Kraken)
 - [What is Cardano?](https://www.coinbase.com/it/learn/crypto-basics/what-is-cardano) (Coinbase)
 
@@ -63,14 +63,15 @@ Map of the Cardano ecosystem:
 - [SingularityNET](https://singularitynet.io/)
 - [Obsidian]()
 - [Mukn](https://mukn.io/)
-- Vacuumlabs
-- QuiviQ
-- Atix
+- [Vacuumlabs](https://vacuumlabs.com/)
+- [QuiviQ](https://www.quiviq.com/)
+- [Atix](https://www.atixlabs.com/)
 - Konfidio
 - Binaries
 - [Runtime Verification](https://runtimeverification.com/)
 - PWC
 - Celsius Network
+- [Scantrust](https://www.scantrust.com/)
 
 ## Exchanges ##
 - [Coinbase](https://www.coinbase.com)
