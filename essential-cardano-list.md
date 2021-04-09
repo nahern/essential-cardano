@@ -19,12 +19,12 @@ Map of the Cardano ecosystem:
 - [IOHK You Tube](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w)
 - [IO Twitter](https://twitter.com/InputOutputHK?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 - [IO Tik Tok](https://www.tiktok.com/@iohkofficial?)
-- [Mission of Cardano](https://www.youtube.com/watch?v=l_Nv0-PVrnM)
-- [Cardano 360 monthly show playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOBz8sfQOgpZJwM4dswLm2WKs)
-- [Project Catalyst playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOByRhpTUdALq4J89m_h7QqLk)
 - [Technical Support](https://iohk.zendesk.com/hc/en-us)
 - [Cardano Ambassadors](https://cardano.org/ambassadors/)
 - [Cardano tutorials](https://github.com/input-output-hk/cardano-tutorials)
+- [Mission of Cardano](https://www.youtube.com/watch?v=l_Nv0-PVrnM)
+- [Cardano 360 monthly show playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOBz8sfQOgpZJwM4dswLm2WKs)
+- [Project Catalyst playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOByRhpTUdALq4J89m_h7QqLk)
 
 ## Supporting developer resources ##
 - [Cardano Official Telegram](https://t.me/cardano)
@@ -38,7 +38,7 @@ Map of the Cardano ecosystem:
 ## New to Cardano? ##
 - Read the explainers in the [New to Cardano?](https://docs.cardano.org/en/latest/index.html#) section of Cardano Docs
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf) (community-generated)
-- [Blockchain glossary](https://emurgoio-data.s3-us-west-1.amazonaws.com/company/blockchain-glossary.pdf) (Emurgo)
+- [How to start on Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
 - [Beginner's guide to Cardano](https://www.kraken.com/learn/what-is-cardano-ada) (Kraken)
 - [What is Cardano?](https://www.coinbase.com/it/learn/crypto-basics/what-is-cardano) (Coinbase)
 
