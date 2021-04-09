@@ -36,7 +36,7 @@ Map of the Cardano ecosystem:
 - [How to submit a CIP](https://docs.cardano.org/en/latest/cardano-community/cardano-improvement-proposals.html)
 
 ## New to Cardano? ##
-- Read the explainers in the [New to Cardano? section](https://docs.cardano.org/en/latest/index.html#) of Cardano Docs
+- Read the explainers in the [New to Cardano?](https://docs.cardano.org/en/latest/index.html#) section of Cardano Docs
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf) (community-generated)
 - [Blockchain glossary](https://emurgoio-data.s3-us-west-1.amazonaws.com/company/blockchain-glossary.pdf) (Emurgo)
 - [Beginner's guide to Cardano](https://www.kraken.com/learn/what-is-cardano-ada) (Kraken)
