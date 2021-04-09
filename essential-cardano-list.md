@@ -33,20 +33,25 @@ Map of the Cardano ecosystem:
 - [Cardano Discord](https://discord.com/login?redirect_to=%2Fchannels%2F386191477333557248%2F386223132496887808)
 - [Cardano developers Reddit](https://www.reddit.com/r/CardanoDevelopers/)
 - [Cardano Stack Exchange](https://area51.stackexchange.com/proposals/125174/cardano)
+- [How to submit a CIP](https://docs.cardano.org/en/latest/cardano-community/cardano-improvement-proposals.html)
 
 ## New to Cardano? ##
-- Read the explainers in the `New to Cardano?` section on Cardano Docs
-New to Cardano guide (community-generated)
-Blockchain glossary (Emurgo)
-Glossaries/general Information
-Blockchain glossary
-Cardano glossary
-10 word glossary of terms
-Cardano Foundation
-Cardano Foundation official site
-Stake pool school course
-CIPs repository
-Cardano Foundation on Medium
+- Read the explainers in the [New to Cardano? section](https://docs.cardano.org/en/latest/index.html#) of Cardano Docs
+- [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf) (community-generated)
+- [Blockchain glossary](https://emurgoio-data.s3-us-west-1.amazonaws.com/company/blockchain-glossary.pdf) (Emurgo)
+- [Beginner's guide to Cardano](https://www.kraken.com/learn/what-is-cardano-ada) (Kraken)
+- [What is Cardano?](https://www.coinbase.com/it/learn/crypto-basics/what-is-cardano) (Coinbase)
+
+## Glossaries/general Information ##
+- [Blockchain glossary](https://emurgoio-data.s3-us-west-1.amazonaws.com/company/blockchain-glossary.pdf)
+- [Cardano glossary](https://docs.cardano.org/en/latest/explore-cardano/glossary.html)
+- [10 word glossary of terms](https://emurgo.io/en/blog/blockchain-glossary-10-words-to-get-you-through-the-door)
+
+## Cardano Foundation ##
+- [Cardano Foundation official site](https://cardanofoundation.org/)
+- [Stake pool school course](https://cardano-foundation.gitbook.io/stake-pool-course/)
+- [CIPs repository](https://github.com/cardano-foundation/CIPs)
+- [Cardano Foundation on Medium](https://medium.com/@cardano.foundation)
 
 Emurgo:
 Emurgo official website
