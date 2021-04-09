@@ -53,12 +53,13 @@ Map of the Cardano ecosystem:
 - [CIPs repository](https://github.com/cardano-foundation/CIPs)
 - [Cardano Foundation on Medium](https://medium.com/@cardano.foundation)
 
-Emurgo:
-Emurgo official website
-Unspent transaction outputs in Cardano
-UTxO primer
-Financial transactions on Cardano
-Partners
+## Emurgo ##
+- [Emurgo official website](https://emurgo.io/)
+- [Unspent transaction outputs in Cardano](https://emurgo.io/blog/understanding-unspent-transaction-outputs-in-cardano)
+- [UTxO primer](https://www.emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained)
+- [Financial transactions on Cardano](https://www.emurgo.io/en/blog/what-traditional-financial-services-can-be-carried-out-using-cardano-blockchain)
+
+## Partners ##
 SingularityNET
 Obsidian
 Mukn
@@ -116,6 +117,7 @@ Other Community Resources
 What is Cardano?
 Buy ada guide
 Who builds on Cardano?
+- [How to start on Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
 CN Tools
 Cardano epoch calendar
 Build on Cardano
