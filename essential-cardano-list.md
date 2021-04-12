@@ -66,64 +66,68 @@ Map of the Cardano ecosystem:
 - [Vacuumlabs](https://vacuumlabs.com/)
 - [QuiviQ](https://www.quiviq.com/)
 - [Atix](https://www.atixlabs.com/)
-- Konfidio
+- [Konfidio](https://konfidio.com/)
 - Binaries
 - [Runtime Verification](https://runtimeverification.com/)
-- PWC
+- [PWC](https://www.pwc.com/)
 - Celsius Network
 - [Scantrust](https://www.scantrust.com/)
 
 ## Exchanges ##
 - [Coinbase](https://www.coinbase.com)
-Binance
-Kraken
-Bittrex
-Huobi
-Kucoin
-Bitthumb
-Wallets
-Wallets primer
-Transferring ada from Binance to Yoroi
+- [Binance](https://www.binance.com/en)
+- [Kraken](https://www.kraken.com/)
+- [Bittrex](https://global.bittrex.com/)
+- [Huobi](https://www.huobi.com/)
+- [Kucoin](https://www.kucoin.com/)
+- [Bitthumb](https://en.bithumb.com/)
 
-Community training
-Lovelace academy
-Community Videos
-Cardano: The Revolution
-Ladies of Cardano
+## Wallets ##
+- [Yoroi wallet primer](https://emurgo.io/blog/yoroi-wallet-primer-an-official-emurgo-guideto-withdrawing-your-cardano-ada-rewards)
+- [Transferring ada from Binance to Yoroi](https://www.youtube.com/watch?v=OKNn3yzaZo4)
 
+## Community training ##
+- [Lovelace academy](https://lovelace.academy/)
 
-Exploring stake pools
-IOHK has developed a stake pool metadata aggregation server (SMASH) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
+## Community Videos ##
+- [Cardano: The Revolution](https://www.youtube.com/watch?v=XKYorEgMVVo)
+- [Ladies of Cardano](https://www.youtube.com/watch?v=SPDsu9PqTmg)
+
+## Exploring stake pools ##
+IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
 
 You can also explore stake pools using these tools:
-Cardano PoolTool
-ADAtainment
-POOLSTATS
-Adatools (pools)
-Ada pools
-Cardanoscan (pools)
-List of stake pools (unofficial)
-Ada calculators
-ada calculator
+- [Cardano PoolTool](https://pooltool.io/)
+- [ADAtainment](https://www.adatainment.com/index.php?page=home&lang=en)
+- [POOLSTATS](https://poolstats.org/#)
+- [Adatools (pools)](https://adatools.io/pools)
+- [Ada pools](https://adapools.org/)
+- [Cardanoscan (pools)](https://cardanoscan.io/pools)
+- [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
 
+## Ada calculators ##
+- [ada calculator](https://adacalculator.com/)
 
-Our Essential Community Top Five
-New to Cardano guide
-Guild operators 
-Coin Cashew - How to build a Cardano stake pool-node
-Video tutorials for stake pools
-Build a stake pool: CN Tools
+## Our Essential Community Top Five ##
+- [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf)
+- [Guild Operators ](https://cardano-community.github.io/guild-operators/#/)
+- [Coin Cashew - How to build a Cardano stake pool](https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node)
+- [big pey's video tutorials for stake pools](https://www.youtube.com/playlist?list=PLyThQPJpttTJ4r9wUdlWi1DMty4nAT85d)
+- [Build a stake pool: CN Tools](https://www.youtube.com/watch?v=UN4rSRr7LDk)
 
 Other Community Resources
-What is Cardano?
-Buy ada guide
-Who builds on Cardano?
+- [What is Cardano?](https://blockgeeks.com/guides/what-is-cardano/)
+- Buy ada guide
+- [Who builds on Cardano?}(https://www.adatainment.com/index.php?page=articles_who_builds_on_cardano&lang=en)
 - [How to start on Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
-CN Tools
-Cardano epoch calendar
-Build on Cardano
+- [Guild Operators: CN Tools](https://cardano-community.github.io/guild-operators/#/Scripts/cntools?id=cntools)
+- [Cardano epoch calendar](https://dbooster.io/calendar)
+- [ada best](https://adabest.com/)
+
+## Build on Cardano ##
 Here’s where you can learn to build on Cardano.
-Marlowe
+
+## Marlowe ##
 Marlowe explained
 Marlowe Playground
 Marlowe tutorial
