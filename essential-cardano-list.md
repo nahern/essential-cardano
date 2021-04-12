@@ -1,8 +1,8 @@
 # The essential Cardano list #
 
-The essential Cardano list is a central library of materials, the canon of resources for Cardano. This list includes official resources and community-generated materials. 
+The essential Cardano list is a central library of materials, including official IOG, Cardano Foundation, and Emurgo resources, as well as community-generated materials. 
 
-This list is fully open source and we hope that you can help us to grow and fine tune our recommendations to make our list even better. We encourage you to let us know of new content that is being produced by the community, new relationships, new innovations, so that we can add them all to this list. Please raise a PR in the repo with suggestions and new additions to enhance our list. 
+This list is fully open source so we hope that you can help us to grow and fine tune our recommendations to make our list even better. We encourage you to let us know of new content that is being produced by the community, new relationships, new innovations, so that we can add them all to this list and build out the ecosystem. Please raise a PR in the repo with suggestions and new additions to enhance our list and we will be in touch.
 
 ## Navigate the Cardano ecosystem ##
 Welcome to the Cardano ecosystem, here is a map to help you find your way around:
