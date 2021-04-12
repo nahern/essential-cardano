@@ -117,7 +117,6 @@ You can also explore stake pools using these tools:
 
 Other Community Resources
 - [What is Cardano?](https://blockgeeks.com/guides/what-is-cardano/)
-- Buy ada guide
 - [Who builds on Cardano?](https://www.adatainment.com/index.php?page=articles_who_builds_on_cardano&lang=en)
 - [How to start on Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
 - [Guild Operators: CN Tools](https://cardano-community.github.io/guild-operators/#/Scripts/cntools?id=cntools)
@@ -131,13 +130,14 @@ Here are resources to help you learn how to build on Cardano.
 - [Marlowe explainer](https://docs.cardano.org/en/latest/marlowe/marlowe-explainer.html)
 - [Marlowe Playground](https://alpha.marlowe.iohkdev.io/#/)
 - [Marlowe tutorial](https://alpha.marlowe.iohkdev.io/tutorial/index.html)
-- [Marlowe in Cardano explained (by Sebastien Guillemot)](https://www.youtube.com/watch?v=S41GIRl0kVY)
+- [Marlowe in Cardano explained](https://www.youtube.com/watch?v=S41GIRl0kVY)
 - [Marlowe Official Telegram](https://t.me/IOHK_Marlowe)
 - [Marlowe Udemy course (version one)](https://www.udemy.com/course/marlowe-programming-language/) (for background reading only, the development environment has changed. Version 2 will be out soon.)
 
 ## Glow ##
-Glow official docs
-Glow tutorial
+- [Glow offical website](https://glow-lang.org/)
+- [Glow official docs](https://glow-lang.org/docs/)
+- [Glow tutorial](https://developers.cardano.org/en/programming-languages/glow/getting-started/glow-tutorial/)
 
 ## Plutus ##
 Plutus overview
