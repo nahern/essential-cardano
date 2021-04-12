@@ -140,13 +140,13 @@ Here are resources to help you learn how to build on Cardano.
 - [Glow tutorial](https://developers.cardano.org/en/programming-languages/glow/getting-started/glow-tutorial/)
 
 ## Plutus ##
-Plutus overview
-Plutus Playground
-Plutus tutorials
-Plutus ebook (for background reading only, the development has changed. Version 2 will be out soon)
-Plutus Udemy course (for background reading only, the development has changed. Version 2 will be out soon)
+- [Plutus overview](https://developers.cardano.org/en/programming-languages/plutus/overview/)
+- [Plutus Playground](https://playground.plutus.iohkdev.io/)
+- [Plutus tutorials](https://playground.plutus.iohkdev.io/tutorial/index.html)
+- [Plutus ebook](https://www.amazon.co.uk/Plutus-Writing-reliable-smart-contracts-ebook/dp/B07V46LWTW) (for background reading only, the development has changed. Version 2 will be out soon)
+- [Plutus Udemy course (version one)](https://www.udemy.com/course/plutus-reliable-smart-contracts/) (for background reading only, the development environment has changed. Version 2 will be out soon)
 
 ## Other IO Global solutions ##
-Atala
-Prism
-Mantis
+- Atala
+- Prism
+- [Mantis](https://mantisclient.io/)
