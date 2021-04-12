@@ -146,6 +146,10 @@ Here are resources to help you learn how to build on Cardano.
 - [Plutus ebook](https://www.amazon.co.uk/Plutus-Writing-reliable-smart-contracts-ebook/dp/B07V46LWTW) (for background reading only, the development has changed. Version 2 will be out soon)
 - [Plutus Udemy course (version one)](https://www.udemy.com/course/plutus-reliable-smart-contracts/) (for background reading only, the development environment has changed. Version 2 will be out soon)
 
+## Native tokens ##
+- [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
+- [Native tokens explainer video](https://www.youtube.com/watch?v=PVqsCXh-V5Y)
+
 ## Other IO Global solutions ##
 - Atala
 - Prism
