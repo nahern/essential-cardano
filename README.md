@@ -1,6 +1,6 @@
 # The essential Cardano list #
 
-‘One list to rule them all...’
+‘*One list to rule them all...*’
 
 Welcome to [the essential Cardano list](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md), a comprehensive collection of resources to help you learn more about Cardano. Whether you want to understand what Cardano is, learn about our mission and roadmap, or get stuck in and build on Cardano, this is the place to start. 
 
