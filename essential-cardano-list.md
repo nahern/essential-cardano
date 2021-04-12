@@ -125,25 +125,28 @@ Other Community Resources
 - [ada best](https://adabest.com/)
 
 ## Build on Cardano ##
-Here’s where you can learn to build on Cardano.
+Here are resources to help you learn how to build on Cardano.
 
 ## Marlowe ##
-Marlowe explained
-Marlowe Playground
-Marlowe tutorial
-Marlowe Official Telegram
-Marlowe Udemy course (for background reading only, the development has changed. Version 2 will be out soon)
-Glow
+- [Marlowe explainer](https://docs.cardano.org/en/latest/marlowe/marlowe-explainer.html)
+- [Marlowe Playground](https://alpha.marlowe.iohkdev.io/#/)
+- [Marlowe tutorial](https://alpha.marlowe.iohkdev.io/tutorial/index.html)
+- [Marlowe in Cardano explained (by Sebastien Guillemot)](https://www.youtube.com/watch?v=S41GIRl0kVY)
+- [Marlowe Official Telegram](https://t.me/IOHK_Marlowe)
+- [Marlowe Udemy course (version one)](https://www.udemy.com/course/marlowe-programming-language/) (for background reading only, the development environment has changed. Version 2 will be out soon.)
+
+## Glow ##
 Glow official docs
 Glow tutorial
-Plutus
+
+## Plutus ##
 Plutus overview
 Plutus Playground
 Plutus tutorials
 Plutus ebook (for background reading only, the development has changed. Version 2 will be out soon)
 Plutus Udemy course (for background reading only, the development has changed. Version 2 will be out soon)
 
-Other IO Global solutions
+## Other IO Global solutions ##
 Atala
 Prism
 Mantis
