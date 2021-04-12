@@ -118,7 +118,7 @@ You can also explore stake pools using these tools:
 - [big pey's video tutorials for stake pools](https://www.youtube.com/playlist?list=PLyThQPJpttTJ4r9wUdlWi1DMty4nAT85d)
 - [Build a stake pool: CN Tools](https://www.youtube.com/watch?v=UN4rSRr7LDk)
 
-Other Community Resources
+## Other Community Resources ##
 - [What is Cardano?](https://blockgeeks.com/guides/what-is-cardano/)
 - [Who builds on Cardano?](https://www.adatainment.com/index.php?page=articles_who_builds_on_cardano&lang=en)
 - [How to start on Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
