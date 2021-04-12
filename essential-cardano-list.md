@@ -1,8 +1,8 @@
 # The essential Cardano list #
 
-The essential Cardano list is a central library of materials, a one stop shop where you can find various resources for Cardano. This list includes official resources and community-generated materials. It is open source and we hope that you can help us to grow and fine tune this list to make it even better. 
+The essential Cardano list is a central library of materials, the canon of resources for Cardano. This list includes official resources and community-generated materials. 
 
-We encourage you to add to this list and let us know of new content that is being produced by the community. Please raise a PR in the repo with suggestions and new additions to enhance our list. 
+This list is fully open source and we hope that you can help us to grow and fine tune our recommendations to make our list even better. We encourage you to let us know of new content that is being produced by the community, new relationships, new innovations, so that we can add them all to this list. Please raise a PR in the repo with suggestions and new additions to enhance our list. 
 
 ## Navigate the Cardano ecosystem ##
 Welcome to the Cardano ecosystem, here is a map to help you find your way around:
