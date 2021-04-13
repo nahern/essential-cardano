@@ -75,8 +75,9 @@ Welcome to the Cardano ecosystem, here is a map to help you find your way around
 - Binaries
 - [Runtime Verification](https://runtimeverification.com/)
 - [PWC](https://www.pwc.com/)
-- Celsius Network
+- [Celsius Network](https://celsius.network/)
 - [Scantrust](https://www.scantrust.com/)
+- Coti []()
 
 ## Exchanges ##
 - [Coinbase](https://www.coinbase.com)
