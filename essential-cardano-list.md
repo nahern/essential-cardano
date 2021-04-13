@@ -8,6 +8,11 @@ This list is fully open source so we hope that you can help us to grow and fine 
 Welcome to the Cardano ecosystem, here is a map to help you find your way around: (March 2021)
 ![cardano-ecosystem](cardano-ecosystem.PNG)
 
+## Core Organizations ##
+- [IOHK](https://iohk.io/en/)
+- [Cardano Foundation](https://cardanofoundation.org/)
+- [Emurgo](https://emurgo.io/)
+
 ## IO Global Official Resources ##
 - [Cardano official website](https://cardano.org/)
 - [Cardano Documentation](https://docs.cardano.org/en/latest/#)
