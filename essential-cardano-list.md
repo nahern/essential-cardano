@@ -26,7 +26,7 @@ Welcome to the Cardano ecosystem, here is a map to help you find your way around
 - [Cardano 360 monthly show playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOBz8sfQOgpZJwM4dswLm2WKs)
 - [Project Catalyst playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOByRhpTUdALq4J89m_h7QqLk)
 
-## Supporting developer resources ##
+## 🥑 Supporting developer resources 🥑 ##
 - [Cardano Official Telegram](https://t.me/cardano)
 - [Cardano Announcements Telegram](https://t.me/CardanoAnnouncements)
 - [Cardano developers Telegram](https://forum.cardano.org/c/developers/29)
