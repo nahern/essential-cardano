@@ -110,7 +110,7 @@ You can also explore stake pools using these tools:
 - [Cardanoscan (pools)](https://cardanoscan.io/pools)
 - [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
 
-## Stake pool operators ##
+## 🥁 Stake pool operators 🥁 ##
 Here is a list of active stake pool operators:
 - []()
 
