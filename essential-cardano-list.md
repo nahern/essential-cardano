@@ -6,7 +6,7 @@ This list is fully open source so we hope that you can help us to grow and fine 
 
 ## Navigate the Cardano ecosystem ##
 Welcome to the Cardano ecosystem, here is a map to help you find your way around:
-Map of the Cardano ecosystem:
+![cardano-ecosystem](cardano-ecosystem.PNG)
 
 ## IO Global Official Resources ##
 - [Cardano official website](https://cardano.org/)
