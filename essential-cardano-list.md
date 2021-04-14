@@ -6,6 +6,8 @@ This list is fully open source so we hope that you can help us to grow and fine 
 
 Here are the categories:
 - [Navigate the Cardano ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#navigate-the-cardano-ecosystem)
+- [Core organizations](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
+- [IOG Official Resources](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#io-global-official-resources)
 
 ## Navigate the Cardano ecosystem ##
 Welcome to the Cardano ecosystem, here is a map to help you find your way around: (March 2021)
