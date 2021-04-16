@@ -171,8 +171,10 @@ Here are resources to help you learn how to build on Cardano.
 
 ### ⚔️ Plutus Pioneers ⚔️ ###
 These materials have been produced by the Plutus Pioneer course participants:
-- <please add>
-- <plese add> 
+- [Plutus Community Documentation GitBook](https://docs.plutus-community.com/?utm_source=Developers&utm_campaign=4f9ab1c222-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-4f9ab1c222-77569945)
+- [Overview of Lecture 1](https://www.youtube.com/watch?v=Cdu0gzCiYbY)
+- [Installing the Plutus Playground](https://bikemonkey.tech/ppp-install-the-plutus-playground-on-macos-big-sur/?utm_source=Developers&utm_campaign=4f9ab1c222-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-4f9ab1c222-77569945)
+- <please add> 
 
 ## Native tokens ##
 - [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
