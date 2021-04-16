@@ -1,7 +1,7 @@
 # Essential Cardano list #
 Welcome to [the essential Cardano list](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md), a comprehensive collection of resources to help you learn more about Cardano. Whether you want to understand what Cardano is, learn about our mission and roadmap, or get stuck in and build on Cardano, this is the place to start. 
 
-The Essential Cardano list is designed to be a central library of materials, a one stop shop where you can find various resources for Cardano. This list includes official resources and community-generated materials. 
+The essential Cardano list is designed to be a central library of materials, a one stop shop where you can find various resources for Cardano. This list includes official resources and community-generated materials. 
 
 This is an open source repository that is initiated and overseen by myself [Niamh Ahern](https://iohk.io/en/team/niamh-ahern), [Ben O'Hanlon](https://iohk.io/en/team/ben-ohanlon), and [Tim Harrison](https://iohk.io/en/team/tim-harrison), all at IO Global. Please do not reproduce this list, but we encourage you to contribute and help us evolve it. 
 
