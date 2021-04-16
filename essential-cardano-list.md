@@ -53,6 +53,12 @@ Welcome to the Cardano ecosystem, here is a map to help you find your way around
 
 ## Wallets ##
 
+## Layer 2 solutions ##
+- IOHK Atala Prism
+- IOHK Atala Trace
+- IOHK Atala Scan
+- EMURGO Traceability 
+
 ## Exploring stake pools ##
 IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
 
@@ -72,7 +78,5 @@ Here is a list of active stake pool operators:
 ## Ada calculators ##
 - [ada calculator](https://adacalculator.com/)
 
-## Other IO Global solutions ##
-- Atala
-- Prism
+## Other IOHK solutions ##
 - [Mantis](https://mantisclient.io/)
