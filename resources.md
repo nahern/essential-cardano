@@ -1,4 +1,6 @@
-# Resoources # 
+# Resources # 
+
+Here is a comprehensive list of resources. 
 
 ### 🧙 IO Global Official Resources 🧙 ###
 - [Cardano official website](https://cardano.org/)
