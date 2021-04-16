@@ -40,7 +40,7 @@ Welcome to the Cardano ecosystem, here is a map to help you find your way around
 - [Scantrust](https://www.scantrust.com/)
 - [Coti](https://coti.io/)
 
-## IO Global Official Resources ##
+## 🧙 IO Global Official Resources 🧙 ##
 - [Cardano official website](https://cardano.org/)
 - [Cardano Documentation](https://docs.cardano.org/en/latest/#)
 - [Cardano Developers](https://developers.cardano.org/)
@@ -168,6 +168,8 @@ Here are resources to help you learn how to build on Cardano.
 - [Plutus community documentation](http://docs.plutus-community.com/)
 - [Plutus ebook](https://www.amazon.co.uk/Plutus-Writing-reliable-smart-contracts-ebook/dp/B07V46LWTW) (for background reading only, the development has changed. Version 2 will be out soon)
 - [Plutus Udemy course (version one)](https://www.udemy.com/course/plutus-reliable-smart-contracts/) (for background reading only, the development environment has changed. Version 2 will be out soon)
+
+### ⚔️ Plutus Pioneers ⚔️ ###
 These materials have been produced by the Plutus Pioneer course participants:
 - <please add>
 - <plese add> 
