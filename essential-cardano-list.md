@@ -7,6 +7,7 @@ This list is fully open source so we hope that you can help us to grow and fine 
 Here are the categories:
 - [Navigate the Cardano ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#navigate-the-cardano-ecosystem)
 - [Core organizations](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
+- [Strategic Partners and Collaborators ]()
 - [Oracles](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#oracles)
 - [IOG Official Resources](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#io-global-official-resources)
 
@@ -22,6 +23,22 @@ Welcome to the Cardano ecosystem, here is a map to help you find your way around
 ## Oracles ##
 - [Ergo](https://ergoplatform.org/en/)
 - [WolframAlpha](https://www.wolframalpha.com/)
+
+## Strategic Partners and Collaborators ##
+- [SingularityNET](https://singularitynet.io/)
+- [Obsidian]()
+- [Mukn](https://mukn.io/)
+- [Vacuumlabs](https://vacuumlabs.com/)
+- [QuiviQ](https://www.quiviq.com/)
+- [Atix](https://www.atixlabs.com/)
+- [Konfidio](https://konfidio.com/)
+- FiveBinaries
+- [Runtime Verification](https://runtimeverification.com/)
+- [PWC](https://www.pwc.com/)
+- [Orion](https://blog.orionprotocol.io/)
+- [Celsius Network](https://celsius.network/)
+- [Scantrust](https://www.scantrust.com/)
+- [Coti](https://coti.io/)
 
 ## IO Global Official Resources ##
 - [Cardano official website](https://cardano.org/)
@@ -73,21 +90,6 @@ Welcome to the Cardano ecosystem, here is a map to help you find your way around
 - [Unspent transaction outputs in Cardano](https://emurgo.io/blog/understanding-unspent-transaction-outputs-in-cardano)
 - [UTxO primer](https://www.emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained)
 - [Financial transactions on Cardano](https://www.emurgo.io/en/blog/what-traditional-financial-services-can-be-carried-out-using-cardano-blockchain)
-
-## Partners ##
-- [SingularityNET](https://singularitynet.io/)
-- [Obsidian]()
-- [Mukn](https://mukn.io/)
-- [Vacuumlabs](https://vacuumlabs.com/)
-- [QuiviQ](https://www.quiviq.com/)
-- [Atix](https://www.atixlabs.com/)
-- [Konfidio](https://konfidio.com/)
-- Binaries
-- [Runtime Verification](https://runtimeverification.com/)
-- [PWC](https://www.pwc.com/)
-- [Celsius Network](https://celsius.network/)
-- [Scantrust](https://www.scantrust.com/)
-- Coti []()
 
 ## Exchanges ##
 - [Coinbase](https://www.coinbase.com)
