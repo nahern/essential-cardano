@@ -110,7 +110,6 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Installing the Plutus Playground](https://bikemonkey.tech/ppp-install-the-plutus-playground-on-macos-big-sur/?utm_source=Developers&utm_campaign=4f9ab1c222-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-4f9ab1c222-77569945)
 - [Setting up the Plutus Playground in a Docker container](https://github.com/heathdrobertson/plutus-pioneer?utm_source=Developers&utm_campaign=4f9ab1c222-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-4f9ab1c222-77569945)
 - [How to get the Plutus Playground up and running](https://tutorials.cardanoacademy.io/?utm_source=Developers&utm_campaign=4f9ab1c222-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-4f9ab1c222-77569945)
-- <please add> 
 
 ## Native tokens ##
 - [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
