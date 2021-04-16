@@ -1,6 +1,6 @@
-# Resources # 
+# Essentail resources # 
 
-Here is a comprehensive list of resources. 
+Here is our essential list of Cardano resources. 
 
 ### 🧙 IO Global Official Resources 🧙 ###
 - [Cardano official website](https://cardano.org/)
