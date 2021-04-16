@@ -52,3 +52,14 @@ Here is our essential list of Cardano resources.
 - [Unspent transaction outputs in Cardano](https://emurgo.io/blog/understanding-unspent-transaction-outputs-in-cardano)
 - [UTxO primer](https://www.emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained)
 - [Financial transactions on Cardano](https://www.emurgo.io/en/blog/what-traditional-financial-services-can-be-carried-out-using-cardano-blockchain)
+
+## Wallet resources ##
+- [Yoroi wallet primer](https://emurgo.io/blog/yoroi-wallet-primer-an-official-emurgo-guideto-withdrawing-your-cardano-ada-rewards)
+- [Transferring ada from Binance to Yoroi](https://www.youtube.com/watch?v=OKNn3yzaZo4)
+
+## Community training ##
+- [Lovelace academy](https://lovelace.academy/)
+
+## Community Videos ##
+- [Cardano: The Revolution](https://www.youtube.com/watch?v=XKYorEgMVVo)
+- [Ladies of Cardano](https://www.youtube.com/watch?v=SPDsu9PqTmg)
