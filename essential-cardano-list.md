@@ -9,9 +9,7 @@ Here are the categories:
 - [Core organizations](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
 - [Strategic Partners and Collaborators ](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#strategic-partners-and-collaborators)
 - [Oracles](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#oracles)
-- [IOG Official Resources](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#io-global-official-resources)
-
-Fo a full list of our essential resources for all things Cardano-related, check out our [Resources page](resources.md) for a comprehensive list of Cardano resources. 
+- [Essential resources]()
 
 ## Navigate the Cardano ecosystem ##
 Welcome to the Cardano ecosystem, here is a map to help you find your way around: (March 2021)
