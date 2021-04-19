@@ -92,7 +92,7 @@ Welcome to the Cardano ecosystem, here is a map to help you find your way around
 ## Developer ecosystems ##
 Here are resources to help you learn how to build on Cardano.
 
-## Marlowe ##
+### Marlowe ###
 - [Marlowe explainer](https://docs.cardano.org/en/latest/marlowe/marlowe-explainer.html)
 - [Marlowe Playground](https://alpha.marlowe.iohkdev.io/#/)
 - [Marlowe tutorial](https://alpha.marlowe.iohkdev.io/tutorial/index.html)
@@ -100,7 +100,7 @@ Here are resources to help you learn how to build on Cardano.
 - [Marlowe Official Telegram](https://t.me/IOHK_Marlowe)
 - [Marlowe Udemy course (version one)](https://www.udemy.com/course/marlowe-programming-language/) (for background reading only, the development environment has changed. Version 2 will be out soon.)
 
-## Plutus ##
+### Plutus ###
 - [Plutus overview](https://developers.cardano.org/en/programming-languages/plutus/overview/)
 - [Plutus Playground](https://playground.plutus.iohkdev.io/)
 - [Plutus tutorials](https://playground.plutus.iohkdev.io/tutorial/index.html)
@@ -108,7 +108,7 @@ Here are resources to help you learn how to build on Cardano.
 - [Plutus ebook](https://www.amazon.co.uk/Plutus-Writing-reliable-smart-contracts-ebook/dp/B07V46LWTW) (for background reading only, the development has changed. Version 2 will be out soon)
 - [Plutus Udemy course (version one)](https://www.udemy.com/course/plutus-reliable-smart-contracts/) (for background reading only, the development environment has changed. Version 2 will be out soon)
 
-### ⚔️ Plutus Pioneers ⚔️ ###
+#### ⚔️ Plutus Pioneers ⚔️ ####
 These materials have been produced by the Plutus Pioneer course participants:
 - [Plutus Community Documentation GitBook](https://docs.plutus-community.com/?utm_source=Developers&utm_campaign=4f9ab1c222-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-4f9ab1c222-77569945)
 - [Overview of Lecture 1](https://www.youtube.com/watch?v=Cdu0gzCiYbY)
@@ -116,16 +116,16 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Setting up the Plutus Playground in a Docker container](https://github.com/heathdrobertson/plutus-pioneer?utm_source=Developers&utm_campaign=4f9ab1c222-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-4f9ab1c222-77569945)
 - [How to get the Plutus Playground up and running](https://tutorials.cardanoacademy.io/?utm_source=Developers&utm_campaign=4f9ab1c222-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-4f9ab1c222-77569945)
 
-## Solidity ##
+### Solidity ###
 
-## Haskell ##
+### Haskell ###
 
-## Glow ##
+### Glow ###
 - [Glow offical website](https://glow-lang.org/)
 - [Glow official docs](https://glow-lang.org/docs/)
 - [Glow tutorial](https://developers.cardano.org/en/programming-languages/glow/getting-started/glow-tutorial/)
 - 
-## Native tokens ##
+### Native tokens ###
 - [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
 - [Native tokens explainer video](https://www.youtube.com/watch?v=PVqsCXh-V5Y)
 
