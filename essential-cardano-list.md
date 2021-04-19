@@ -103,7 +103,7 @@ Here is an outlined of the developer ecosystem and relevant resources to help yo
 - [Marlowe tutorial](https://alpha.marlowe.iohkdev.io/tutorial/index.html)
 - [Marlowe in Cardano explained](https://www.youtube.com/watch?v=S41GIRl0kVY)
 - [Marlowe Official Telegram](https://t.me/IOHK_Marlowe)
-- [Marlowe Udemy course (version one)](https://www.udemy.com/course/marlowe-programming-language/) (for background reading only, the development environment has changed. Version 2 will be out soon.)
+- [Marlowe Udemy course (v. 1)](https://www.udemy.com/course/marlowe-programming-language/) (for background reading only, the development environment has changed. Version 2 will be out soon.)
 
 ### Plutus ###
 - [Plutus overview](https://developers.cardano.org/en/programming-languages/plutus/overview/)
@@ -111,7 +111,7 @@ Here is an outlined of the developer ecosystem and relevant resources to help yo
 - [Plutus tutorials](https://playground.plutus.iohkdev.io/tutorial/index.html)
 - [Plutus community documentation](http://docs.plutus-community.com/)
 - [Plutus ebook](https://www.amazon.co.uk/Plutus-Writing-reliable-smart-contracts-ebook/dp/B07V46LWTW) (for background reading only, the development has changed. Version 2 will be out soon)
-- [Plutus Udemy course (version one)](https://www.udemy.com/course/plutus-reliable-smart-contracts/) (for background reading only, the development environment has changed. Version 2 will be out soon)
+- [Plutus Udemy course (v. 1)](https://www.udemy.com/course/plutus-reliable-smart-contracts/) (for background reading only, the development environment has changed. Version 2 will be out soon)
 
 #### ⚔️ Plutus Pioneers ⚔️ ####
 These materials have been produced by the Plutus Pioneer course participants:
