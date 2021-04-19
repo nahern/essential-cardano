@@ -4,7 +4,7 @@ The essential Cardano list provides a map of the Cardano ecosystem and a central
 
 This list is fully open source so we hope that you can help us to grow and fine tune our recommendations to make our list even better. We encourage you to let us know of new content that is being produced by the community, new relationships, new innovations, so that we can add them all to this list and build out the ecosystem. 
 
-We've broken it down into the following sections:
+Here is the outline:
 - [Navigate the Cardano ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#navigate-the-cardano-ecosystem)
 - [Core organizations](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
 - [Strategic Partners and Collaborators ](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#strategic-partners-and-collaborators)
