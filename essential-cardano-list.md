@@ -31,7 +31,7 @@ Welcome to the Cardano ecosystem, here is a map to help you find your way around
 - [Obsidian]()
 - [Mukn](https://mukn.io/)
 - [Vacuumlabs](https://vacuumlabs.com/)
-- [QuiviQ](https://www.quiviq.com/)
+- [QuiviQ](http://quviq.com/)
 - [Atix](https://www.atixlabs.com/)
 - [Konfidio](https://konfidio.com/)
 - FiveBinaries
