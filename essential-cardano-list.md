@@ -6,10 +6,12 @@ This list is fully open source so we hope that you can help us to grow and fine 
 
 Here is the outline:
 - [Navigate the Cardano ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#navigate-the-cardano-ecosystem)
-- [Core organizations](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
+- [Core Organizations](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
 - [Strategic Partners and Collaborators ](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#strategic-partners-and-collaborators)
 - [Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#startups)
 - [Deployments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#deployments)
+- [Layer 2 Solutions](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#layer-2-solutions)
+- [DeFi and Capital Markets](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#defi-and-capital-markets)
 - [Oracles](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#oracles)
 - [Essential resources](https://github.com/nahern/essential-cardano/blob/main/resources.md#essential-resources)
 
@@ -57,13 +59,13 @@ Welcome to the Cardano ecosystem, here is a map to help you find your way around
 - [Blue Korintji Coffee](https://www.bluekorintji.com/)
 - [Alko Coffee]
 
-## Layer 2 solutions ##
+## Layer 2 Solutions ##
 - IOHK Atala Prism
 - IOHK Atala Trace
 - IOHK Atala Scan
 - EMURGO Traceability 
 
-## DeFi and capital markets ##
+## DeFi and Capital Markets ##
 - [Celsius]()
 - [Bondly](https://bondly.finance/)
 - [Wave]()
@@ -89,8 +91,8 @@ Welcome to the Cardano ecosystem, here is a map to help you find your way around
 - [Etoro](https://www.etoro.com/)
 - [LATOKEN](https://latoken.com/)
 
-## Developer ecosystems ##
-Here are resources to help you learn how to build on Cardano.
+## Developer Ecosystem ##
+Here is an outlined of the developer ecosystem and relevant resources to help you learn how to build on Cardano.
 
 ### Marlowe ###
 - [Marlowe explainer](https://docs.cardano.org/en/latest/marlowe/marlowe-explainer.html)
