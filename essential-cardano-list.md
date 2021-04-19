@@ -124,7 +124,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Glow offical website](https://glow-lang.org/)
 - [Glow official docs](https://glow-lang.org/docs/)
 - [Glow tutorial](https://developers.cardano.org/en/programming-languages/glow/getting-started/glow-tutorial/)
-- 
+
 ### Native tokens ###
 - [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
 - [Native tokens explainer video](https://www.youtube.com/watch?v=PVqsCXh-V5Y)
