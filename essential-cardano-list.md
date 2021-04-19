@@ -40,6 +40,21 @@ Welcome to the Cardano ecosystem, here is a map to help you find your way around
 - [Scantrust](https://www.scantrust.com/)
 - [Coti](https://coti.io/)
 
+## Startups ##
+- [API3](https://api3.org/)
+- [Credmark](https://credmark.com/)
+- [Helixworks]
+- [Sempo](https://withsempo.com/)
+- [Tesseract]
+- [Quidli](https://quid.li/)
+
+## Deployments ##
+- [New Balance](https://www.newbalance.com/)
+- [BeefChain](https://beefchain.com/)
+- [ScanTrust](https://www.scantrust.com/)
+- [Blue Korintji Coffee](https://www.bluekorintji.com/)
+- [Alko Coffee]
+
 ## Exchanges ##
 - [Coinbase](https://www.coinbase.com)
 - [Binance](https://www.binance.com/en)
