@@ -16,6 +16,7 @@ Here is the outline:
 - [Governments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#governments)
 - [Exchanges](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#exchanges)
 - [Developer ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#developer-ecosystem)
+- [Research and Education](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#research-and-education)
 - [Essential resources](https://github.com/nahern/essential-cardano/blob/main/resources.md#essential-resources)
 
 ## Navigate the Cardano ecosystem ##
