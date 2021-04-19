@@ -7,12 +7,15 @@ This list is fully open source so we hope that you can help us to grow and fine 
 Here is the outline:
 - [Navigate the Cardano ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#navigate-the-cardano-ecosystem)
 - [Core Organizations](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
+- [Oracles](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#oracles)
 - [Strategic Partners and Collaborators ](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#strategic-partners-and-collaborators)
 - [Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#startups)
 - [Deployments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#deployments)
 - [Layer 2 Solutions](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#layer-2-solutions)
 - [DeFi and Capital Markets](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#defi-and-capital-markets)
-- [Oracles](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#oracles)
+- [Governments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#governments)
+- [Exchanges](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#exchanges)
+- [Developer ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#developer-ecosystem)
 - [Essential resources](https://github.com/nahern/essential-cardano/blob/main/resources.md#essential-resources)
 
 ## Navigate the Cardano ecosystem ##
