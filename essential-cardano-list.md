@@ -135,6 +135,19 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Native tokens explainer video](https://www.youtube.com/watch?v=PVqsCXh-V5Y)
 
 ## Wallets ##
+- [Daedalus](https://daedaluswallet.io/)
+- [Yoroi](https://yoroi-wallet.com/#/)
+- [Trezor]()
+- [Infinito wallet](https://www.infinitowallet.io/)
+- [Ledger]()
+- [Adalite](https://adalite.io/)
+- [Atomic wallet]()
+- [Tangem](https://tangem.com/apps/)
+- [Ellipal]()
+- [Crypto Storafe AG]()
+- [Medusa Adawallet](https://adawallet.io/)
+- [Revolut](https://www.revolut.com/)
+- [Guarda Wallet}(https://guarda.com/)
 
 ## Exploring stake pools ##
 IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
