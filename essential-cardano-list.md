@@ -147,7 +147,53 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Crypto Storafe AG]()
 - [Medusa Adawallet](https://adawallet.io/)
 - [Revolut](https://www.revolut.com/)
-- [Guarda Wallet}(https://guarda.com/)
+- [Guarda Wallet](https://guarda.com/)
+
+## Research and Education ##
+
+### Standards/Consortia ###
+- []()
+
+### Top Tier Research Conferences ###
+- [ACM Sigsac]()
+- [IEEE]()
+- [NDSS]
+- [Soda]
+- [Esorics]
+- [Eurocrypt]
+- [Euro S&P]
+- [Crypto]
+- [S&P]
+- [ICDCS]
+- [Financial Cryptography]
+
+### Blockchain Labs and Education Institutions ###
+- [The University of Edinburgh](https://www.ed.ac.uk/)
+- [University of Wyoming](http://www.uwyo.edu/)
+- [University of Kent](https://www.kent.ac.uk/)
+- [University of Cambridge](https://www.cam.ac.uk/)
+- [University of Illinois Urbana-Champaign](https://illinois.edu/)
+- [Tokyo Institute of Technology](https://www.titech.ac.jp)
+- [National Technical University Of Athens](https://www.ntua.gr)
+- [Athens University of Economics and Business](https://www.aueb.gr)
+- [UCL](https://www.ucl.ac.uk/)
+- [KHARKIV National Medical University](http://www.knmu.kharkov.ua/index.php)
+- [UCONN](https://uconn.edu/)
+- [University of Oxford](https://www.ox.ac.uk/)
+- [Zhejiang University](https://www.zju.edu.cn)
+- [University of Zurich](https://www.uzh.ch)
+- [University of Geneva](https://www.unige.ch/)
+- [Zigurat Global Institute of Technology](https://www.e-zigurat.com)
+- [Frankfurt Business School](https://www.frankfurt-school.deitis]())
+- [University of Mauritius](https://www.uom.ac.mu/)
+- [Gemini Cryptopedia](https://www.gemini.com/cryptopedia)
+
+### Standards/Certification/Consortia ###
+- [Hyperledger](https://www.hyperledger.org/)
+- [Alpha Frontier]()
+- [Berkman Klein Center](https://cyber.harvard.edu/)
+- [IBM Research](https://www.research.ibm.com/)
+- [Priveledge]()
 
 ## Exploring stake pools ##
 IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
