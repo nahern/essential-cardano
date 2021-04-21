@@ -17,6 +17,7 @@ Here is an outline of the categories:
 - [Exchanges](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#exchanges)
 - [Developer ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#developer-ecosystem)
 - [Research and Education](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#research-and-education)
+- [Payments]()
 - [Essential resources](https://github.com/nahern/essential-cardano/blob/main/resources.md#essential-resources)
 
 ## Navigate the Cardano ecosystem ##
@@ -195,6 +196,27 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Berkman Klein Center](https://cyber.harvard.edu/)
 - [IBM Research](https://www.research.ibm.com/)
 - [Priveledge]()
+
+## Payments ##
+- [Coti](coti.io)
+- [Sirin Labs]()
+- [Metaps+]()
+- [AdaPay]
+
+## Infrastructure & Security ##
+
+### Audits ###
+- [Quantstamp]
+- [FP Complete]
+- [R9B]
+- [Nagra]
+
+### Ouroboros Consensus ###
+- [Classic]
+- [BFT]
+- 
+
+
 
 ## Exploring stake pools ##
 IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
