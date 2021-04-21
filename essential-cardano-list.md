@@ -17,8 +17,8 @@ Here is an outline of the categories:
 - [Exchanges](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#exchanges)
 - [Developer ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#developer-ecosystem)
 - [Research and Education](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#research-and-education)
-- [Payments]()
-- [Project Catalyst Startups]
+- [Payments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#payments)
+- [Project Catalyst Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
 - [Essential resources](https://github.com/nahern/essential-cardano/blob/main/resources.md#essential-resources)
 
 ## Navigate the Cardano ecosystem ##
