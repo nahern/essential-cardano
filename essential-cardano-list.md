@@ -230,6 +230,16 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Cardano for Mobile dApp Developers](http://ideascale.com/t/UM5UZBbD9)
 - [IoT Utility Dapp - Sign Tx Arduino](http://ideascale.com/t/UM5UZBbJq)
 - [Japan Cardano Governance Association-Meetings & Communities & Podcasts](http://ideascale.com/t/UM5UZBa7J)
+- [Liqwid:Cardano DeFi Liquidity Pools](https://cardano.ideascale.com/a/dtd/333395-48088)
+- [Ada Tx to Trigger IoT + IO HW Spins](https://cardano.ideascale.com/a/dtd/334417-48088)
+- [Comprehensive NFT Framework Collab](https://cardano.ideascale.com/a/dtd/334521-48088)
+- [Digital Asset Inheritance](https://cardano.ideascale.com/a/dtd/333096-48088)
+- [Decentralized Accounting <- IFRS](https://cardano.ideascale.com/a/dtd/333447-48088)
+- [Food traceability solution - Africa](https://cardano.ideascale.com/a/dtd/334507-48088)
+- [Dapp for business contracts](https://cardano.ideascale.com/a/dtd/333905-48088)
+- [The Basket DApp - 売買カート](https://cardano.ideascale.com/a/dtd/333127-48088)
+- [Python module](https://cardano.ideascale.com/a/dtd/333770-48088)
+- [Visual Studio Smart Contract Plugin](https://cardano.ideascale.com/a/dtd/333827-48088)
 
 
 ## Exploring stake pools ##
