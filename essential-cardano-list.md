@@ -240,6 +240,11 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [The Basket DApp - 売買カート](https://cardano.ideascale.com/a/dtd/333127-48088)
 - [Python module](https://cardano.ideascale.com/a/dtd/333770-48088)
 - [Visual Studio Smart Contract Plugin](https://cardano.ideascale.com/a/dtd/333827-48088)
+- [Liqwid Developer Portal:Cardano SDK](https://cardano.ideascale.com/a/dtd/333382-48088)
+- [CardanoSharp - .NET Library](https://cardano.ideascale.com/a/dtd/333629-48088)
+- [Developer & SPO Tools [CNTools]](https://cardano.ideascale.com/a/dtd/333605-48088)
+- [Cardano IntelliJ IDEA Plugin (MVP)](https://cardano.ideascale.com/a/dtd/333570-48088)
+- [Cardano serialization library in Go](https://cardano.ideascale.com/a/dtd/334110-48088)
 
 
 ## Exploring stake pools ##
