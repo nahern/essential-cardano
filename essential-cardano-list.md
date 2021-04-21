@@ -18,6 +18,7 @@ Here is an outline of the categories:
 - [Developer ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#developer-ecosystem)
 - [Research and Education](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#research-and-education)
 - [Payments]()
+- [Project Catalyst Startups]
 - [Essential resources](https://github.com/nahern/essential-cardano/blob/main/resources.md#essential-resources)
 
 ## Navigate the Cardano ecosystem ##
@@ -214,8 +215,20 @@ These materials have been produced by the Plutus Pioneer course participants:
 ### Ouroboros Consensus ###
 - [Classic]
 - [BFT]
-- 
+- []
 
+## Project Catalyst Startups ##
+- [Liqwid: Cardano DeFi Lending Markets](https://www.liqwid.finance/)
+- [Cardano Starter Kits + APIs (Gimbalabs)](https://gimbalabs.com/)
+- [PoolTool Platform Upgrade](http://ideascale.com/t/UM5UZBalo)
+- [Lovelace Academy Marlowe Plutus](http://ideascale.com/t/UM5UZBanB)
+- [Haskell/Plutus/Marlowe Education](http://ideascale.com/t/UM5UZBak5)
+- [Ouroboros over RINA](http://ideascale.com/t/UM5UZBbCm)
+- [Create message signing standard](http://ideascale.com/t/UM5UZBa0q)
+- [Pet Registry dApp + ₳Pay API](http://ideascale.com/t/UM5UZBbDe)
+- [Cardano for Mobile dApp Developers](http://ideascale.com/t/UM5UZBbD9)
+- [IoT Utility Dapp - Sign Tx Arduino](http://ideascale.com/t/UM5UZBbJq)
+- [Japan Cardano Governance Association-Meetings & Communities & Podcasts](http://ideascale.com/t/UM5UZBa7J)
 
 
 ## Exploring stake pools ##
