@@ -245,6 +245,14 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Developer & SPO Tools [CNTools]](https://cardano.ideascale.com/a/dtd/333605-48088)
 - [Cardano IntelliJ IDEA Plugin (MVP)](https://cardano.ideascale.com/a/dtd/333570-48088)
 - [Cardano serialization library in Go](https://cardano.ideascale.com/a/dtd/334110-48088)
+- [Metadata oracle node](https://cardano.ideascale.com/a/dtd/334228-48088)
+- [ABCD](https://cardano.ideascale.com/a/dtd/333467-48088)
+- [ADA MakerSpace - DEV lessons](https://cardano.ideascale.com/a/dtd/334235-48088)
+- [Metadata oracles explorer](https://cardano.ideascale.com/a/dtd/334106-48088)
+- [Write Dapps as continuous workflows](https://cardano.ideascale.com/a/dtd/333838-48088)
+- [Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/dtd/333079-48088)
+- [Scale-UP Cardano's DeFi Ecosystem](https://cardano.ideascale.com/a/dtd/333399-48088)
+- [Address Gap in SPO Education/Comms](https://cardano.ideascale.com/a/dtd/323251-48088)
 
 
 ## Exploring stake pools ##
