@@ -5,7 +5,6 @@ The essential Cardano list provides a map of the Cardano ecosystem and a central
 This list is fully open source so we hope that you can help us to grow and fine tune our recommendations to make our list even better. We encourage you to let us know of new content that is being produced by the community, new relationships, new innovations, so that we can add them all to this list and build out the ecosystem. 
 
 Here is an outline of the categories:
-- [Navigate the Cardano ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#navigate-the-cardano-ecosystem)
 - [Core Organizations](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
 - [Oracles](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#oracles)
 - [Strategic Partners and Collaborators ](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#strategic-partners-and-collaborators)
@@ -21,10 +20,6 @@ Here is an outline of the categories:
 - [Infrastructure & Security](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
 - [Project Catalyst Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
 - [Essential resources](https://github.com/nahern/essential-cardano/blob/main/resources.md#essential-resources)
-
-## Navigate the Cardano ecosystem ##
-Welcome to the Cardano ecosystem, here is a map to help you find your way around: (March 2021)
-![cardano-ecosystem](cardano-ecosystem.PNG)
 
 ## Core Organizations ##
 - [IOHK](https://iohk.io/en/)
