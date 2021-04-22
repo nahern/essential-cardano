@@ -41,7 +41,7 @@ Here is our essential list of Cardano resources.
 - [Cardano Stack Exchange](https://area51.stackexchange.com/proposals/125174/cardano)
 - [How to submit a CIP](https://docs.cardano.org/en/latest/cardano-community/cardano-improvement-proposals.html)
 
-## 😺 New to Cardano? 😺 ##
+## 🆕 New to Cardano? 🆕 ##
 - Read the explainers in the [New to Cardano?](https://docs.cardano.org/en/latest/index.html#) section of Cardano Docs
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf) (community-generated)
 - [How to start with Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
