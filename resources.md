@@ -41,19 +41,19 @@ Here is our essential list of Cardano resources.
 - [Cardano Stack Exchange](https://area51.stackexchange.com/proposals/125174/cardano)
 - [How to submit a CIP](https://docs.cardano.org/en/latest/cardano-community/cardano-improvement-proposals.html)
 
-## New to Cardano? ##
+## 😺 New to Cardano? 😺 ##
 - Read the explainers in the [New to Cardano?](https://docs.cardano.org/en/latest/index.html#) section of Cardano Docs
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf) (community-generated)
 - [How to start with Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
 - [Beginner's guide to Cardano](https://www.kraken.com/learn/what-is-cardano-ada) (Kraken)
 - [What is Cardano?](https://www.coinbase.com/it/learn/crypto-basics/what-is-cardano) (Coinbase)
 
-## Glossaries and General Information ##
+## 📚 Glossaries and General Information 📚 ##
 - [Blockchain glossary](https://emurgoio-data.s3-us-west-1.amazonaws.com/company/blockchain-glossary.pdf)
 - [Cardano glossary](https://docs.cardano.org/en/latest/explore-cardano/glossary.html)
 - [10 word glossary of terms](https://emurgo.io/en/blog/blockchain-glossary-10-words-to-get-you-through-the-door)
 
-## Tools ##
+## 🔨 Tools 🔨 ##
 - [Cardano Explorer](https://explorer.cardano.org/en)
 - [Grafana Dashboard](https://monitoring.cardano-testnet.iohkdev.io/grafana/d/Oe0reiHef/cardano-application-metrics-v2?orgId=1&refresh=1m&from=now-2d&to=now)
 - [Staking calculator](https://developers.cardano.org/en/testnets/cardano/tools/staking-calculator/)
@@ -70,7 +70,7 @@ Here is our essential list of Cardano resources.
 - [big pey's video tutorials for stake pools](https://www.youtube.com/playlist?list=PLyThQPJpttTJ4r9wUdlWi1DMty4nAT85d)
 - [Build a stake pool: CN Tools](https://www.youtube.com/watch?v=UN4rSRr7LDk)
 
-## Community Training ##
+## 🧑‍🏫 Community Training 🧑‍🏫 ##
 - [Lovelace academy](https://lovelace.academy/)
 
 ## Community Videos ##
