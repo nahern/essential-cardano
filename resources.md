@@ -20,6 +20,18 @@ Here is our essential list of Cardano resources.
 - [Cardano 360 monthly show playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOBz8sfQOgpZJwM4dswLm2WKs)
 - [Project Catalyst playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOByRhpTUdALq4J89m_h7QqLk)
 
+## Cardano Foundation ##
+- [Cardano Foundation official site](https://cardanofoundation.org/)
+- [Stake pool school course](https://cardano-foundation.gitbook.io/stake-pool-course/)
+- [CIPs repository](https://github.com/cardano-foundation/CIPs)
+- [Cardano Foundation on Medium](https://medium.com/@cardano.foundation)
+
+## Emurgo ##
+- [Emurgo official website](https://emurgo.io/)
+- [Unspent transaction outputs in Cardano](https://emurgo.io/blog/understanding-unspent-transaction-outputs-in-cardano)
+- [UTxO primer](https://www.emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained)
+- [Financial transactions on Cardano](https://www.emurgo.io/en/blog/what-traditional-financial-services-can-be-carried-out-using-cardano-blockchain)
+
 ### 🥑 Supporting Developer Resources 🥑 ###
 - [Cardano Official Telegram](https://t.me/cardano)
 - [Cardano Announcements Telegram](https://t.me/CardanoAnnouncements)
@@ -41,17 +53,11 @@ Here is our essential list of Cardano resources.
 - [Cardano glossary](https://docs.cardano.org/en/latest/explore-cardano/glossary.html)
 - [10 word glossary of terms](https://emurgo.io/en/blog/blockchain-glossary-10-words-to-get-you-through-the-door)
 
-## Cardano Foundation ##
-- [Cardano Foundation official site](https://cardanofoundation.org/)
-- [Stake pool school course](https://cardano-foundation.gitbook.io/stake-pool-course/)
-- [CIPs repository](https://github.com/cardano-foundation/CIPs)
-- [Cardano Foundation on Medium](https://medium.com/@cardano.foundation)
-
-## Emurgo ##
-- [Emurgo official website](https://emurgo.io/)
-- [Unspent transaction outputs in Cardano](https://emurgo.io/blog/understanding-unspent-transaction-outputs-in-cardano)
-- [UTxO primer](https://www.emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained)
-- [Financial transactions on Cardano](https://www.emurgo.io/en/blog/what-traditional-financial-services-can-be-carried-out-using-cardano-blockchain)
+## Tools ##
+- [Cardano Explorer](https://explorer.cardano.org/en)
+- [Grafana Dashboard](https://monitoring.cardano-testnet.iohkdev.io/grafana/d/Oe0reiHef/cardano-application-metrics-v2?orgId=1&refresh=1m&from=now-2d&to=now)
+- [https://developers.cardano.org/en/testnets/cardano/tools/staking-calculator/](https://developers.cardano.org/en/testnets/cardano/tools/staking-calculator/)
+- [https://nativetokens.da.iogservices.io/](https://nativetokens.da.iogservices.io/)
 
 ## Wallet Resources ##
 - [Yoroi wallet primer](https://emurgo.io/blog/yoroi-wallet-primer-an-official-emurgo-guideto-withdrawing-your-cardano-ada-rewards)
@@ -80,4 +86,18 @@ Here is our essential list of Cardano resources.
 - [ada best](https://adabest.com/)
 - [Cardano Assets](https://cardanoassets.com/)
 - [Adaex.org](https://adaex.org/)
-- []
+- [Cardano Wall](https://cardanowall.com/en/)
+- [Cardano Canucks](https://cardanocanucks.com/)
+- [Cardano Updates](https://cardanoupdates.com/)
+- [Pooltool.io](https://pooltool.io/)
+- [Pool.pm](https://pool.pm/)
+- [Adastat](https://adastat.net/)
+- [Clio](https://edu.clio.one)
+- [Seeada](https://seeada.org/)
+- [Cardano Community]()
+- [Adafolio](https://adafolio.com/)
+- [Bitbucket]()
+- [Hitchhiker's Guides]
+- [Voting by Dust](https://vote.crypto2099.io/)
+- [Python LeaderLog and getSigma scripts]()
+- [JorManager](https://bitbucket.org/muamw10/jormanager/src/develop/)
