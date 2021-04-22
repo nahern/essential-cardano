@@ -1,4 +1,4 @@
-# Essential resources # 
+# Essential Resources # 
 
 Here is our essential list of Cardano resources. 
 
@@ -36,7 +36,7 @@ Here is our essential list of Cardano resources.
 - [Beginner's guide to Cardano](https://www.kraken.com/learn/what-is-cardano-ada) (Kraken)
 - [What is Cardano?](https://www.coinbase.com/it/learn/crypto-basics/what-is-cardano) (Coinbase)
 
-## Glossaries/general Information ##
+## Glossaries and General Information ##
 - [Blockchain glossary](https://emurgoio-data.s3-us-west-1.amazonaws.com/company/blockchain-glossary.pdf)
 - [Cardano glossary](https://docs.cardano.org/en/latest/explore-cardano/glossary.html)
 - [10 word glossary of terms](https://emurgo.io/en/blog/blockchain-glossary-10-words-to-get-you-through-the-door)
