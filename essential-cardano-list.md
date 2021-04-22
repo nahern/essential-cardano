@@ -132,7 +132,7 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 #### Plutus ####
 - [Plutus overview](https://developers.cardano.org/en/programming-languages/plutus/overview/)
 - [Plutus Playground](https://playground.plutus.iohkdev.io/)
-- [Plutus tutorials](https://playground.plutus.iohkdev.io/tutorial/index.html)
+- [Plutus tutorials](https://playground.plutus.iohkdev.io/tutorial/tutorials/index.html)
 - [Plutus community documentation](http://docs.plutus-community.com/)
 - [Plutus ebook](https://www.amazon.co.uk/Plutus-Writing-reliable-smart-contracts-ebook/dp/B07V46LWTW) (for background reading only, the development has changed. Version 2 will be out soon)
 - [Plutus Udemy course (v. 1)](https://www.udemy.com/course/plutus-reliable-smart-contracts/) (for background reading only, the development environment has changed. Version 2 will be out soon)
