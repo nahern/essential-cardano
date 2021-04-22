@@ -54,7 +54,6 @@ Here is an outline of the categories:
 - [PWC](https://www.pwc.com/)
 - [Orion](https://blog.orionprotocol.io/)
 - [Celsius Network](https://celsius.network/)
-- [Scantrust](https://www.scantrust.com/)
 - [Scalac]
 - [Tweag]
 - [Well Typed]
