@@ -30,7 +30,17 @@ Here is an outline of the categories:
 - [Ergo](https://ergoplatform.org/en/)
 - [WolframAlpha](https://www.wolframalpha.com/)
 
-## Strategic Partners and Collaborators ##
+## Enterprise & Business Ecosystem ##
+
+### Startups ###
+- [API3](https://api3.org/)
+- [Credmark](https://credmark.com/)
+- [Helixworks]
+- [Sempo](https://withsempo.com/)
+- [Tesseract]
+- [Quidli](https://quid.li/)
+
+### Strategic Partners and Collaborators ###
 - [SingularityNET](https://singularitynet.io/)
 - [Obsidian]()
 - [Mukn](https://mukn.io/)
@@ -44,43 +54,49 @@ Here is an outline of the categories:
 - [Orion](https://blog.orionprotocol.io/)
 - [Celsius Network](https://celsius.network/)
 - [Scantrust](https://www.scantrust.com/)
-- [Coti](https://coti.io/)
+- [Scalac]
+- [Tweag]
+- [Well Typed]
+- [Ncube]
+- [Bloxico]
+- [LunaTech]
+- [Bairesdev]
+- [Alt Labs]
+- [Eleks]
+- [Node Factory]
+- [Metalamp]
+- [Dquadrant]
+- [Mlabs]
+- [BinarApps]
+- [Obsidian]
 
-## Startups ##
-- [API3](https://api3.org/)
-- [Credmark](https://credmark.com/)
-- [Helixworks]
-- [Sempo](https://withsempo.com/)
-- [Tesseract]
-- [Quidli](https://quid.li/)
+### Layer 2 Solutions ###
+- IOHK Atala Prism
+- IOHK Atala Trace
+- IOHK Atala Scan
+- EMURGO Traceability 
 
-## Deployments ##
+### Deployments ###
 - [New Balance](https://www.newbalance.com/)
 - [BeefChain](https://beefchain.com/)
 - [ScanTrust](https://www.scantrust.com/)
 - [Blue Korintji Coffee](https://www.bluekorintji.com/)
 - [Alko Coffee]
 
-## Layer 2 Solutions ##
-- IOHK Atala Prism
-- IOHK Atala Trace
-- IOHK Atala Scan
-- EMURGO Traceability 
-
-## DeFi and Capital Markets ##
+### DeFi and Capital Markets ###
 - [Celsius]()
 - [Bondly](https://bondly.finance/)
 - [Wave]()
 - [Generation Two Securitization](https://www.gentwo.com/)
 - [Venus]()
 
-## Governments ##
+### Governments ###
 - [Ethiopia]()
 - [Wyoming]()
 - [Georgia]()
 - [Mongolia]()
 
-## Exchanges ##
+### Exchanges ###
 - [Coinbase](https://www.coinbase.com)
 - [Binance](https://www.binance.com/en)
 - [Kraken](https://www.kraken.com/)
@@ -92,6 +108,8 @@ Here is an outline of the categories:
 - [Crypto.com](https://crypto.com/)
 - [Etoro](https://www.etoro.com/)
 - [LATOKEN](https://latoken.com/)
+
+### DeFi & Capital Markets ###
 
 ## Developer Ecosystem ##
 Here is an outlined of the developer ecosystem and relevant resources to help you learn how to build on Cardano.
