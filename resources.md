@@ -20,7 +20,7 @@ Here is our essential list of Cardano resources.
 - [Cardano 360 monthly show playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOBz8sfQOgpZJwM4dswLm2WKs)
 - [Project Catalyst playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOByRhpTUdALq4J89m_h7QqLk)
 
-### 🥑 Supporting developer resources 🥑 ###
+### 🥑 Supporting Developer Resources 🥑 ###
 - [Cardano Official Telegram](https://t.me/cardano)
 - [Cardano Announcements Telegram](https://t.me/CardanoAnnouncements)
 - [Cardano developers Telegram](https://forum.cardano.org/c/developers/29)
@@ -53,11 +53,11 @@ Here is our essential list of Cardano resources.
 - [UTxO primer](https://www.emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained)
 - [Financial transactions on Cardano](https://www.emurgo.io/en/blog/what-traditional-financial-services-can-be-carried-out-using-cardano-blockchain)
 
-## Wallet resources ##
+## Wallet Resources ##
 - [Yoroi wallet primer](https://emurgo.io/blog/yoroi-wallet-primer-an-official-emurgo-guideto-withdrawing-your-cardano-ada-rewards)
 - [Transferring ada from Binance to Yoroi](https://www.youtube.com/watch?v=OKNn3yzaZo4)
 
-## Community training ##
+## Community Training ##
 - [Lovelace academy](https://lovelace.academy/)
 
 ## Community Videos ##
@@ -78,3 +78,6 @@ Here is our essential list of Cardano resources.
 - [Guild Operators: CN Tools](https://cardano-community.github.io/guild-operators/#/Scripts/cntools?id=cntools)
 - [Cardano epoch calendar](https://dbooster.io/calendar)
 - [ada best](https://adabest.com/)
+- [Cardano Assets](https://cardanoassets.com/)
+- [Adaex.org](https://adaex.org/)
+- []
