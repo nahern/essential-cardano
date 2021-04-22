@@ -59,10 +59,6 @@ Here is our essential list of Cardano resources.
 - [Staking calculator](https://developers.cardano.org/en/testnets/cardano/tools/staking-calculator/)
 - [Native Tokens on Mainnet Dashboard](https://nativetokens.da.iogservices.io/)
 
-## Wallet Resources ##
-- [Yoroi wallet primer](https://emurgo.io/blog/yoroi-wallet-primer-an-official-emurgo-guideto-withdrawing-your-cardano-ada-rewards)
-- [Transferring ada from Binance to Yoroi](https://www.youtube.com/watch?v=OKNn3yzaZo4)
-
 ## Our Essential Community Top Five ##
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf)
 - [Guild Operators ](https://cardano-community.github.io/guild-operators/#/)
@@ -101,3 +97,7 @@ Here is our essential list of Cardano resources.
 - [Voting by Dust](https://vote.crypto2099.io/)
 - [Python LeaderLog and getSigma scripts]()
 - [JorManager](https://bitbucket.org/muamw10/jormanager/src/develop/)
+
+## 👛 Wallet Resources 👛 ##
+- [Yoroi wallet primer](https://emurgo.io/blog/yoroi-wallet-primer-an-official-emurgo-guideto-withdrawing-your-cardano-ada-rewards)
+- [Transferring ada from Binance to Yoroi](https://www.youtube.com/watch?v=OKNn3yzaZo4)
