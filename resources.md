@@ -57,7 +57,7 @@ Here is our essential list of Cardano resources.
 - [Cardano Explorer](https://explorer.cardano.org/en)
 - [Grafana Dashboard](https://monitoring.cardano-testnet.iohkdev.io/grafana/d/Oe0reiHef/cardano-application-metrics-v2?orgId=1&refresh=1m&from=now-2d&to=now)
 - [Staking calculator](https://developers.cardano.org/en/testnets/cardano/tools/staking-calculator/)
-- [Native tokens Dashboard](https://nativetokens.da.iogservices.io/)
+- [Native Tokens on Mainnet Dashboard](https://nativetokens.da.iogservices.io/)
 
 ## Wallet Resources ##
 - [Yoroi wallet primer](https://emurgo.io/blog/yoroi-wallet-primer-an-official-emurgo-guideto-withdrawing-your-cardano-ada-rewards)
