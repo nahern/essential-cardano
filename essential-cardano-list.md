@@ -15,12 +15,12 @@ Here is an outline of the categories:
 - [DeFi and Capital Markets](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#defi-and-capital-markets)
 - [Governments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#governments)
 - [Exchanges](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#exchanges)
-- [Developer ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#developer-ecosystem)
+- [Developer Ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#developer-ecosystem)
 - [Research and Education](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#research-and-education)
 - [Payments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#payments)
 - [Infrastructure & Security](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
 - [Project Catalyst Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
-- [Essential resources](https://github.com/nahern/essential-cardano/blob/main/resources.md#essential-resources)
+- [Essential Resources](https://github.com/nahern/essential-cardano/blob/main/resources.md#essential-resources)
 
 ## Core Organizations ##
 - [IOHK](https://iohk.io/en/)
