@@ -56,19 +56,12 @@ Here is our essential list of Cardano resources.
 ## Tools ##
 - [Cardano Explorer](https://explorer.cardano.org/en)
 - [Grafana Dashboard](https://monitoring.cardano-testnet.iohkdev.io/grafana/d/Oe0reiHef/cardano-application-metrics-v2?orgId=1&refresh=1m&from=now-2d&to=now)
-- [https://developers.cardano.org/en/testnets/cardano/tools/staking-calculator/](https://developers.cardano.org/en/testnets/cardano/tools/staking-calculator/)
-- [https://nativetokens.da.iogservices.io/](https://nativetokens.da.iogservices.io/)
+- [Staking calculator](https://developers.cardano.org/en/testnets/cardano/tools/staking-calculator/)
+- [Native tokens Dashboard](https://nativetokens.da.iogservices.io/)
 
 ## Wallet Resources ##
 - [Yoroi wallet primer](https://emurgo.io/blog/yoroi-wallet-primer-an-official-emurgo-guideto-withdrawing-your-cardano-ada-rewards)
 - [Transferring ada from Binance to Yoroi](https://www.youtube.com/watch?v=OKNn3yzaZo4)
-
-## Community Training ##
-- [Lovelace academy](https://lovelace.academy/)
-
-## Community Videos ##
-- [Cardano: The Revolution](https://www.youtube.com/watch?v=XKYorEgMVVo)
-- [Ladies of Cardano](https://www.youtube.com/watch?v=SPDsu9PqTmg)
 
 ## Our Essential Community Top Five ##
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf)
@@ -76,6 +69,13 @@ Here is our essential list of Cardano resources.
 - [Coin Cashew - How to build a Cardano stake pool](https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node)
 - [big pey's video tutorials for stake pools](https://www.youtube.com/playlist?list=PLyThQPJpttTJ4r9wUdlWi1DMty4nAT85d)
 - [Build a stake pool: CN Tools](https://www.youtube.com/watch?v=UN4rSRr7LDk)
+
+## Community Training ##
+- [Lovelace academy](https://lovelace.academy/)
+
+## Community Videos ##
+- [Cardano: The Revolution](https://www.youtube.com/watch?v=XKYorEgMVVo)
+- [Ladies of Cardano](https://www.youtube.com/watch?v=SPDsu9PqTmg)
 
 ## Other Community Resources ##
 - [What is Cardano?](https://blockgeeks.com/guides/what-is-cardano/)
