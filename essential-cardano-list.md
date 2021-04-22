@@ -92,7 +92,6 @@ Here is an outline of the categories:
 - [Venus]
 
 ### Governments ###
-- [Ethiopia]
 - [Wyoming]
 - [Georgia]
 - [Mongolia]
@@ -109,8 +108,6 @@ Here is an outline of the categories:
 - [Crypto.com](https://crypto.com/)
 - [Etoro](https://www.etoro.com/)
 - [LATOKEN](https://latoken.com/)
-
-### DeFi & Capital Markets ###
 
 ## Developer Ecosystem ##
 Here is an outline of the developer ecosystem and relevant resources to help you learn how to build on Cardano.
@@ -154,6 +151,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Cardano testnet](https://developers.cardano.org/en/testnets/cardano/overview/)
 - [IELE](https://runtimeverification.com/the-iele-virtual-machine/)https://runtimeverification.com/the-iele-virtual-machine/
 - [Metadata]
+- [Atlas Adrestia]
 - [EVM]
 - [KEVM]
 
