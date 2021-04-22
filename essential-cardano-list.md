@@ -7,6 +7,7 @@ This list is fully open source so we hope that you can help us to grow and fine 
 Here is an outline of the categories:
 - [Core Organizations](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
 - [Oracles](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#oracles)
+- [Enterprise & Business Ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#enterprise--business-ecosystem)
 - [Strategic Partners and Collaborators ](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#strategic-partners-and-collaborators)
 - [Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#startups)
 - [Deployments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#deployments)
