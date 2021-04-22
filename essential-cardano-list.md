@@ -85,17 +85,17 @@ Here is an outline of the categories:
 - [Alko Coffee]
 
 ### DeFi and Capital Markets ###
-- [Celsius]()
+- [Celsius]
 - [Bondly](https://bondly.finance/)
-- [Wave]()
+- [Wave]
 - [Generation Two Securitization](https://www.gentwo.com/)
-- [Venus]()
+- [Venus]
 
 ### Governments ###
-- [Ethiopia]()
-- [Wyoming]()
-- [Georgia]()
-- [Mongolia]()
+- [Ethiopia]
+- [Wyoming]
+- [Georgia]
+- [Mongolia]
 
 ### Exchanges ###
 - [Coinbase](https://www.coinbase.com)
@@ -155,9 +155,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 ## Wallets ##
 - [Daedalus](https://daedaluswallet.io/)
 - [Yoroi](https://yoroi-wallet.com/#/)
-- [Trezor]()
+- [Trezor](https://trezor.io/)
 - [Infinito wallet](https://www.infinitowallet.io/)
-- [Ledger]()
+- [Ledger](https://www.ledger.com/)
 - [Adalite](https://adalite.io/)
 - [Atomic wallet]()
 - [Tangem](https://tangem.com/apps/)
@@ -173,8 +173,8 @@ These materials have been produced by the Plutus Pioneer course participants:
 - []()
 
 ### Top Tier Research Conferences ###
-- [ACM Sigsac]()
-- [IEEE]()
+- [ACM Sigsac]
+- [IEEE]
 - [NDSS]
 - [Soda]
 - [Esorics]
@@ -208,15 +208,15 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 ### Standards/Certification/Consortia ###
 - [Hyperledger](https://www.hyperledger.org/)
-- [Alpha Frontier]()
+- [Alpha Frontier]
 - [Berkman Klein Center](https://cyber.harvard.edu/)
 - [IBM Research](https://www.research.ibm.com/)
-- [Priveledge]()
+- [Priveledge](https://priviledge-project.eu/about)
 
 ## Payments ##
 - [Coti](coti.io)
-- [Sirin Labs]()
-- [Metaps+]()
+- [Sirin Labs]
+- [Metaps+]
 - [AdaPay]
 
 ## Infrastructure & Security ##
@@ -230,7 +230,11 @@ These materials have been produced by the Plutus Pioneer course participants:
 ### Ouroboros Consensus ###
 - [Classic]
 - [BFT]
-- []
+- [Genesis]
+- [Praos]
+- [Hydra]
+- [Chronos]
+- [Crypsinous]
 
 ## Project Catalyst Startups ##
 - [Liqwid: Cardano DeFi Lending Markets](https://www.liqwid.finance/)
