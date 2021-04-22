@@ -69,7 +69,7 @@ Here is our essential list of Cardano resources.
 ## 🧑‍🏫 Community Training 🧑‍🏫 ##
 - [Lovelace academy](https://lovelace.academy/)
 
-## Community Videos ##
+## 📹 Community Videos 📹 ##
 - [Cardano: The Revolution](https://www.youtube.com/watch?v=XKYorEgMVVo)
 - [Ladies of Cardano](https://www.youtube.com/watch?v=SPDsu9PqTmg)
 
