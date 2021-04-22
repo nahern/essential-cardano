@@ -80,7 +80,7 @@ Here is an outline of the categories:
 ### Deployments ###
 - [New Balance](https://www.newbalance.com/)
 - [BeefChain](https://beefchain.com/)
-- [ScanTrust](https://www.scantrust.com/)
+- [Scantrust](https://www.scantrust.com/)
 - [Blue Korintji Coffee](https://www.bluekorintji.com/)
 - [Alko Coffee]
 
