@@ -159,8 +159,8 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [IELE](https://runtimeverification.com/the-iele-virtual-machine/)https://runtimeverification.com/the-iele-virtual-machine/
 - [Metadata]
 - [Atlas Adrestia]
-- [EVM]
-- [KEVM]
+- [EVM](https://developers.cardano.org/en/virtual-machines/evm/overview/)
+- [KEVM](https://developers.cardano.org/en/virtual-machines/kevm/overview/)
 
 ### Native tokens ###
 - [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
@@ -173,10 +173,10 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Infinito wallet](https://www.infinitowallet.io/)
 - [Ledger](https://www.ledger.com/)
 - [Adalite](https://adalite.io/)
-- [Atomic wallet]()
+- [Atomic wallet](https://atomicwallet.io/)
 - [Tangem](https://tangem.com/apps/)
-- [Ellipal]()
-- [Crypto Storafe AG]()
+- [Ellipal](https://www.ellipal.com/)
+- [Crypto Storage AG](https://www.cryptofinance.ch/en/storage/)
 - [Medusa Adawallet](https://adawallet.io/)
 - [Revolut](https://www.revolut.com/)
 - [Guarda Wallet](https://guarda.com/)
