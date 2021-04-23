@@ -36,9 +36,9 @@ Here is an outline of the categories:
 ### Startups ###
 - [API3](https://api3.org/)
 - [Credmark](https://credmark.com/)
-- [Helixworks]
+- [Helixworks](https://helix.works/)
 - [Sempo](https://withsempo.com/)
-- [Tesseract]
+- [Tesseract](https://tesseract.one/)
 - [Quidli](https://quid.li/)
 
 ### Strategic Partners and Collaborators ###
