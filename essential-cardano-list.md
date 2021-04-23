@@ -229,8 +229,8 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 ## Payments ##
 - [Coti](coti.io)
-- [Sirin Labs]
-- [Metaps+]
+- [Sirin Labs](https://sirinlabs.com/)
+- [Metaps+](https://metaps.com/)
 - [AdaPay]
 
 ## Infrastructure & Security ##
