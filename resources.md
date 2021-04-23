@@ -92,6 +92,7 @@ Here is our essential list of Cardano resources.
 - [Seeada](https://seeada.org/)
 - [Cardano Community]()
 - [Adafolio](https://adafolio.com/)
+- [Cardano Blockchain Insights](https://datastudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/k5r9B)
 - [Bitbucket]()
 - [Hitchhiker's Guides]
 - [Voting by Dust](https://vote.crypto2099.io/)
