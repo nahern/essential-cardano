@@ -55,8 +55,8 @@ Here is an outline of the categories:
 - [Orion](https://blog.orionprotocol.io/)
 - [Celsius Network](https://celsius.network/)
 - [Scalac]
-- [Tweag]
-- [Well Typed]
+- [Tweag](https://www.tweag.io/)
+- [Well Typed](https://www.well-typed.com/)
 - [Ncube]
 - [Bloxico]
 - [LunaTech]
@@ -68,7 +68,7 @@ Here is an outline of the categories:
 - [Dquadrant]
 - [Mlabs]
 - [BinarApps]
-- [Obsidian]
+- [Obsidian](https://www.obsidians.io/)
 
 ### Layer 2 Solutions ###
 - IOHK Atala Prism
