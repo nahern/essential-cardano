@@ -59,6 +59,9 @@ Here is our essential list of Cardano resources.
 - [Staking calculator](https://developers.cardano.org/en/testnets/cardano/tools/staking-calculator/)
 - [Native Tokens on Mainnet Dashboard](https://nativetokens.da.iogservices.io/)
 
+### Builder Tools ###
+- [Berry Pool](https://github.com/Berry-Pool/cardanocli-js)
+
 ## Our Essential Community Top Five ##
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf)
 - [Guild Operators ](https://cardano-community.github.io/guild-operators/#/)
