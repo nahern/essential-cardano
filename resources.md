@@ -60,7 +60,14 @@ Here is our essential list of Cardano resources.
 - [Native Tokens on Mainnet Dashboard](https://nativetokens.da.iogservices.io/)
 
 ### Builder Tools ###
-- [Berry Pool](https://github.com/Berry-Pool/cardanocli-js)
+Tools to help you build on Cardano:
+- [Block Frost](https://blockfrost.io/)
+- [cardanocli-js library](https://github.com/Berry-Pool/cardanocli-js)
+- [Emurgo Cardano Serialization Library](https://github.com/Emurgo/cardano-serialization-lib)
+- [Dandelion APIs](https://gimbalabs.com/dandelionapis)
+- [Ogmios](https://ogmios.dev/)
+- [Transaction Metadata Browser](https://bi.stakepoolcentral.com/transactiondata)
+- [Cardano Token Tool](https://tokentool.io/)
 
 ## Our Essential Community Top Five ##
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf)
