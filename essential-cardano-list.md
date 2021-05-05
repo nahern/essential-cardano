@@ -30,6 +30,7 @@ Here is an outline of the categories:
 ## Oracles ##
 - [Ergo](https://ergoplatform.org/en/)
 - [WolframAlpha](https://www.wolframalpha.com/)
+- [nut.link](https://nut.link)
 
 ## Enterprise & Business Ecosystem ##
 
@@ -49,7 +50,7 @@ Here is an outline of the categories:
 - [QuiviQ](http://quviq.com/)
 - [Atix](https://www.atixlabs.com/)
 - [Konfidio](https://konfidio.com/)
-- FiveBinaries
+- [Five Binaries](https://fivebinaries.com)
 - [Runtime Verification](https://runtimeverification.com/)
 - [PWC](https://www.pwc.com/)
 - [Orion](https://blog.orionprotocol.io/)
@@ -161,6 +162,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Atlas Adrestia]
 - [EVM](https://developers.cardano.org/en/virtual-machines/evm/overview/)
 - [KEVM](https://developers.cardano.org/en/virtual-machines/kevm/overview/)
+- [Blockfrost.io API](https://blockfrost.io)
 
 ### Native tokens ###
 - [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
