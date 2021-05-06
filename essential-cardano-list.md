@@ -44,7 +44,7 @@ Here is an outline of the categories:
 
 ### Strategic Partners and Collaborators ###
 - [SingularityNET](https://singularitynet.io/)
-- [Obsidian]()
+- [Obsidian](https://www.obsidians.io/)
 - [Mukn](https://mukn.io/)
 - [Vacuumlabs](https://vacuumlabs.com/)
 - [QuiviQ](http://quviq.com/)
@@ -69,7 +69,6 @@ Here is an outline of the categories:
 - [Dquadrant]
 - [Mlabs]
 - [BinarApps]
-- [Obsidian](https://www.obsidians.io/)
 
 ### Layer 2 Solutions ###
 - IOHK Atala Prism
