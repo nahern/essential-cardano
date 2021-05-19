@@ -44,7 +44,7 @@ Here is an outline of the categories:
 
 ### Strategic Partners and Collaborators ###
 - [SingularityNET](https://singularitynet.io/)
-- [Obsidian](https://www.obsidians.io/)
+- [Obsidian Systems](https://obsidian.systems/)
 - [Mukn](https://mukn.io/)
 - [Vacuumlabs](https://vacuumlabs.com/)
 - [QuiviQ](http://quviq.com/)
