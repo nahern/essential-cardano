@@ -69,6 +69,7 @@ Here is an outline of the categories:
 - [Dquadrant]
 - [Mlabs]
 - [BinarApps]
+- [World Mobile Chain](https://worldmobile.io/)
 
 ### Layer 2 Solutions ###
 - IOHK Atala Prism
@@ -288,7 +289,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Address Gap in SPO Education/Comms](https://cardano.ideascale.com/a/dtd/323251-48088)
 - [new entry](https://iohk.io/en/blog/posts/2021/04/30/the-essential-cardano-list-a-new-resource-for-the-community/)
 - [name of entry](link)
-
+- 
 
 ## Exploring stake pools ##
 IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
