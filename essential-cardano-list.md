@@ -31,6 +31,7 @@ Here is an outline of the categories:
 - [Ergo](https://ergoplatform.org/en/)
 - [WolframAlpha](https://www.wolframalpha.com/)
 - [nut.link](https://nut.link)
+- [Charli3](https://charli3.io/)
 
 ## Enterprise & Business Ecosystem ##
 
@@ -70,6 +71,10 @@ Here is an outline of the categories:
 - [Mlabs]
 - [BinarApps]
 - [World Mobile Chain](https://worldmobile.io/)
+- [Nexo](https://nexo.io/)
+- [Nervos](https://www.nervos.org/)
+- [Indigo](https://indigoprotocol.io/)
+- [AgeUSD](https://github.com/Emurgo/age-usd)
 
 ### Layer 2 Solutions ###
 - IOHK Atala Prism
@@ -108,6 +113,15 @@ Here is an outline of the categories:
 - [Crypto.com](https://crypto.com/)
 - [Etoro](https://www.etoro.com/)
 - [LATOKEN](https://latoken.com/)
+
+## DEXs & IDO ##
+- [Occam](https://occam.fi/)
+- [Sundaeswap](https://www.sundaeswap.finance/)
+- [Minswap](https://minswap.org/)
+- [Daemon Exchange](https://daemon.capital/index) 
+- [Cardax](https://cardax.io/)
+- [Adax](https://adax.pro/)
+- [ErgoDex](https://ergodex.io/)
 
 ### Incubators and Funding ###
 - [Project Catalyst](https://cardano.ideascale.com/a/index)
@@ -234,6 +248,12 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Sirin Labs](https://sirinlabs.com/)
 - [Metaps+](https://metaps.com/)
 - [AdaPay]
+- [Revuto](https://revuto.com/)
+- [Shopify](https://www.shopify.com/)
+- [Woocommerce](https://woocommerce.com/)
+
+### Lending & borrowing ###
+-[Meld](https://www.meld.com/)
 
 ## Infrastructure & Security ##
 
@@ -309,6 +329,17 @@ Here is a list of active stake pool operators:
 
 ## Ada calculators ##
 - [ada calculator](https://adacalculator.com/)
+- [Min ada calculator](https://mantis.functionally.io/how-to/min-ada-value/)
+- [MajorPool.net calculator](http://majorpool.net/calculators)
 
 ## Other IOHK solutions ##
 - [Mantis](https://mantisclient.io/)
+
+### Exhange traded products ###
+- [Valour](https://markets.businessinsider.com/news/stocks/valour-announces-launch-of-cardano-and-polkadot-exchange-traded-products-etps-1030439405)
+- [Börse Stuttgart](https://www.boerse-stuttgart.de/en/products/funds/stuttgart/534304-pioneer-investments---total-return-a-da)
+- [Grayscale](https://grayscale.com/)
+
+### NFT platforms ###
+- [NFTMaker](http://nft-maker.io/)
+- [CNFT](http://cnft.io/)
