@@ -286,6 +286,8 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/dtd/333079-48088)
 - [Scale-UP Cardano's DeFi Ecosystem](https://cardano.ideascale.com/a/dtd/333399-48088)
 - [Address Gap in SPO Education/Comms](https://cardano.ideascale.com/a/dtd/323251-48088)
+- [new entry](https://iohk.io/en/blog/posts/2021/04/30/the-essential-cardano-list-a-new-resource-for-the-community/)
+- [name of entry](link)
 
 
 ## Exploring stake pools ##
