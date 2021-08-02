@@ -42,6 +42,7 @@ Here is an outline of the categories:
 - [Sempo](https://withsempo.com/)
 - [Tesseract](https://tesseract.one/)
 - [Quidli](https://quid.li/)
+- [Crowdano Crowdfunding](https://crowdano.io)
 
 ### Strategic Partners and Collaborators ###
 - [SingularityNET](https://singularitynet.io/)
@@ -129,7 +130,8 @@ Here is an outline of the categories:
 - [Dlab](https://dlab.vc/)
 - [DC-fund]()
 - [C-fund]()
-- [Treasury Wave]()  
+- [Treasury Wave]()
+- [Crowdano Crowdfunding](https://crowdano.io)
 
 ## Developer Ecosystem ##
 Here is an outline of the developer ecosystem and relevant resources to help you learn how to build on Cardano.
@@ -319,7 +321,7 @@ You can also explore stake pools using these tools:
 
 ## 🥁 Stake pool operators 🥁 ##
 Here is a list of active stake pool operators:
-- []()
+- [Crowdano Crowdfunding](https://crowdano.io/stake)
 
 ## Ada calculators ##
 - [ada calculator](https://adacalculator.com/)
